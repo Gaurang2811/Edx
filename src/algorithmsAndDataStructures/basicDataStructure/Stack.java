@@ -1,4 +1,4 @@
-package algorithmsAndDataStructures.basicAlgorithms;
+package algorithmsAndDataStructures.basicDataStructure;
 
 import java.util.LinkedList;
 import java.util.List;

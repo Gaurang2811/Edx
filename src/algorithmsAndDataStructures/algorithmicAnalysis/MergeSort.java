@@ -1,4 +1,4 @@
-package algorithmsAndDataStructures.basicAlgorithms;
+package algorithmsAndDataStructures.algorithmicAnalysis;
 
 import java.util.Arrays;
 
